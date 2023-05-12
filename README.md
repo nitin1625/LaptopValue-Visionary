@@ -1,2 +1,4 @@
 # LaptopValue-Visionary
-• Developed a Tool that predict the price of laptop according to user configuration.
+•A simple Machine learning web app deployed on Heroku which predict laptop prices according to laptop configuration defined by user.
+
+Thank You!.
