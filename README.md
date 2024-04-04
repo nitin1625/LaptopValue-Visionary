@@ -18,7 +18,7 @@ This project predicts laptop prices using machine learning based on specificatio
 ## How to Run
 1. Clone this repository.
 2. Install dependencies (`pip install -r requirements.txt`).
-3. Train the model (`laptop_price_prediction.ipynb`).
+3. Train the model (`laptop-price-predictor.ipynb`).
 4. Deploy with Flask (`python app.py`).
 
 ## Future Improvements
